@@ -1,0 +1,31 @@
+{
+    "name": "rick1906/megabike-utils",
+    "type": "library",
+    "description": "Misc PHP utils",
+    "keywords": [
+        "utils"
+    ],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rick",
+            "email": "rick-san@mail.ru",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "megabike\\utils\\": "./"
+        }
+    },
+    "autoload-dev": {
+    },
+    "extra": {
+    }
+}
